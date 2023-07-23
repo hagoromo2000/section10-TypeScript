@@ -30,7 +30,7 @@ function App() {
             userId={todo.userId}
             completed={todo.completed}
           />
-        ); // And here
+        );
       })}
     </div>
   );
